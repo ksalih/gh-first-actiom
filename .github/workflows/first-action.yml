@@ -7,4 +7,4 @@ jobs:
       - name: Print greating
         run: echo "Hello World!"
       - name: Print goodbye
-        run: ehco "Goodbye!"
+        run: echo "Goodbye!"
